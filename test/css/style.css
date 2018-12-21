@@ -1392,3 +1392,14 @@ footer {
     display: block; }
     .footer__bottomlogo a img {
       vertical-align: middle; }
+
+#video-background {
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+}

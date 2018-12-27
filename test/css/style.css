@@ -214,6 +214,12 @@ main .link_related {
 @media print, screen and (min-width: 768px) {
   .top #wrapper .main-inner {
     width: 700px; } }
+    
+h1.back-movie {
+    padding-top: 20%;
+    margin-bottom: 0%;
+    margin-top: auto 0;
+}
 
 .top .top_logo {
   padding: 157px 0 140px; }
